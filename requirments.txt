@@ -1,0 +1,5 @@
+pandas 2.0.1
+numpy 1.24.3
+seaborn 0.12.2
+Sklearn 1.2.2 
+matplotlib: 3.7.1
